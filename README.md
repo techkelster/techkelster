@@ -20,7 +20,7 @@
 
 I am a Software Developer with a deep focus on **cloud-native architectures** and **full-stack engineering**. Currently, I work as a Full Stack Developer at **REI Conveyor Belt**, where I architect real-time messaging systems and complex event-driven backends.
 
-My passion lies in building fault-tolerant, scalable systems using **AWS Serverless** technologies and modern frontend frameworks. I am currently pursuing my B.Sc. in Artificial Intelligence at JKU Linz.
+My passion lies in building fault-tolerant, scalable systems using **AWS Serverless** technologies and modern frontend frameworks. 
 
 *   **🎓 Education:** B.Sc. Software Engineering (Addis Ababa University), B.Sc. Artificial Intelligence (JKU Linz).
 *   **🌍 Alumni:** Africa To Silicon Valley (A2SV) - Google Backed.
