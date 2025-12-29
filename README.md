@@ -69,6 +69,15 @@ Here are some of the complex technical challenges I have solved:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techkelster&show_icons=true&theme=minimal&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkelster&layout=compact&theme=minimal&hide_border=true" alt="Languages" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=techkelster&show_icons=true&count_private=true&theme=github_dark&hide_border=true"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=techkelster&layout=compact&theme=github_dark&hide_border=true"
+  height="170"
+/>
+
 </div>
