@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Developer with a deep focus on **cloud-native architectures** and **full-stack engineering**. Currently, I work as a Full Stack Developer at **REI Conveyor Belt**, where I architect real-time messaging systems and complex event-driven backends.
+I am a Software Developer with a deep focus on **cloud-native architectures** and **full-stack engineering**. Currently, I work as a Full Stack Developer, I architect real-time messaging systems and complex event-driven backends.
 
 My passion lies in building fault-tolerant, scalable systems using **AWS Serverless** technologies and modern frontend frameworks. 
 
